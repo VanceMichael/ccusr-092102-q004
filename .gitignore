@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 证据服务本地数据
+data/
